@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+p {
+	text-align:center;
+}
+
+img {
+	position:relative;
+	padding-left:5%;
+}
